@@ -1,2 +1,2 @@
-# My-First-Repository
+# GCI_Task
 "My First Repository"
